@@ -1,0 +1,3 @@
+[submodule "cmd"]
+	path = cmd
+	url = https://github.com/ksm1512/cmd
